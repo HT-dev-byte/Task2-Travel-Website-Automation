@@ -1,1 +1,4 @@
 # Task2-Travel-Website-Automation
+In this project, all preconfigured automated test cases were executed successfully, producing the test-results.xml file. These results were then validated using the Python script xmlAssesment.py, which processed the multiple datasets and iterations to ensure correctness. The validation generated the assesmentResults.json file, confirming that all test cases passed. The structured JSON output demonstrates successful completion of the automation workflow, providing clear, verifiable results.
+
+The Python assessment script, TestNG results file, and the preconfigured Selenium scripts are all included in the project's structure. Running the assessment script reproduces the results and produces the final JSON report, confirming the pass/fail status of each test case. Overall, the task objectives of executing automated tests, validating dynamic data, and generating structured assessment results have been fully accomplished.
